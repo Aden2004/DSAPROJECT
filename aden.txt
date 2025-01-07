@@ -1,0 +1,14 @@
+aden
+198
+800
+0
+0
+500
+Transaction History:
+2025-01-07 09:20:32 - Received Transfer: 300
+2025-01-07 00:31:28 - Loan: 500: 1
+Finance Summary:
+Monthly Income: 0
+Budget: 0
+Total Expenses: 0
+No budget set.
